@@ -1,1 +1,1 @@
-# Understanding_the_LDA_Algorithm
+# Understanding the LDA Algorithm
