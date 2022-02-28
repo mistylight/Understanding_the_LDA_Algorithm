@@ -29,4 +29,4 @@ def visualize_topic_word(words, probs, max_prob=0.05):
         title_text=f"Top words for the {len(words)} topics",
         width=1350,
     )
-    fig.show()
+    fig.show("notebook")
