@@ -1,4 +1,6 @@
 """
+Adapted from: https://gist.github.com/omri374/ec1c243a5a94a657dae40078d47977b6
+
 Preprocesses the `papers_raw.txt` using SpaCy.
 Input: `papers_raw.txt` from 1_parse_csv.py
 Output: `papers.txt`, removing special characters / numbers and lemmatizing for each line.
