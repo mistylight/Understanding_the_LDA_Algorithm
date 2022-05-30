@@ -1,6 +1,8 @@
 # Understanding the LDA Algorithm
 
-Example codes for my blog post: [Understanding the LDA Algorithm](https://mistylight.github.io/posts/33996/)
+Example codes for my blog post: [Understanding the LDA Algorithm](https://mistylight.github.io/posts/33996/).
+
+Note: Before running the notebooks, please go to the `data/` folder and generate the training data according to the instructions in the README.
 
 ## LDA Training
 
